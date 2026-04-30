@@ -9,15 +9,15 @@ Developed an interactive Tableau dashboard using a coursework employee and produ
 - Included a map visualization to show employee distribution across countries such as Canada, USA, and Mexico.
 - Organized the dashboard layout to make insights easy to read and understand.
 ## Skills Used
--Tableau Dashboard Design
--Data Visualization
--Data Cleaning and Preparation
--Business Intelligence
--Interactive Filters
--KPI Analysis
--Exploratory Data Analysis
--Workforce Analytics
--Production Performance Analysis
--Data Storytelling
--Dashboard Formatting and Layout Design
--Chart Selection and Interpretation
+- Tableau Dashboard Design
+- Data Visualization
+- Data Cleaning and Preparation
+- Business Intelligence
+- Interactive Filters
+- KPI Analysis
+- Exploratory Data Analysis
+- Workforce Analytics
+- Production Performance Analysis
+- Data Storytelling
+- Dashboard Formatting and Layout Design
+- Chart Selection and Interpretation
