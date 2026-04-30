@@ -1,6 +1,35 @@
+# Excel
+## Excel - Key Tasks
+- Used PivotTables to summarize average gross profit by sales agent and identify the top-performing salesperson.
+- Used PivotTables to compare total shipping cost by shipping type, including in-house shipping and common carriers.
+- Used Excel formulas to calculate the percentage of total shipping cost spent on common carriers.
+- Used PivotTable filters to analyze products with a specific customer rating and count related order records.
+- Used PivotTables to analyze Bringa sales by customer, including quantity sold, sell price, and gross sales.
+- Used Excel formulas to calculate the highest quantity sold and each customer’s percentage share of total Bringa quantity.
+- Used Excel functions to calculate freight metrics such as total cartons, total pallets, gross weight, truck trips, transit kilometres, freight cost, accessorial cost, and total freight cost.
+- Used lookup tables/functions to apply truck-based freight rates, insurance rates, and maintenance/accessorial cost values.
+- Used Excel functions to calculate summary metrics, including highest and lowest 2019 quantity, second-highest total cartons, third-lowest total cartons, median truck trips, and projected freight cost with a 15% surcharge.
+- Applied Excel formatting tools such as currency formatting, percentage formatting, cell highlighting, borders, and structured labels to improve readability.
+## Excel - Skills Demonstrated
+- Microsoft Excel
+- PivotTables
+- Excel Formulas and Functions
+- Lookup Tables
+- Forecasting Analysis
+- Freight Cost Analysis
+- Shipment Analysis
+- Sales Performance Analysis
+- Customer/Product Analysis
+- Supply Chain Analytics
+- Logistics Analytics
+- Data Filtering and Summarization
+- Currency and Percentage Formatting
+- Business Insight Reporting
+- Workbook Organization
+
 # MS Access
 
-## MS Access Project Summary
+## MS Access - Project Summary
 This project involved building and customizing a warehouse operations database in Microsoft Access using employee and warehouse activity data. The database supports structured data entry, lookup relationships, calculated fields, validation rules, conditional formatting, form navigation, and query-based reporting.
 
 ## MS Access - Key Tasks Completed
@@ -29,6 +58,7 @@ This project involved building and customizing a warehouse operations database i
 - Database startup configuration
 
 
+# Tableau
 ## Tableau - Project Description
 Developed an interactive Tableau dashboard using a coursework employee and production dataset with 350+ records. The dashboard includes 8 visuals to analyze employee and production performance. The dashboard highlights trends in salary distribution, absenteeism, efficiency, units made, rejected units, performance ratings, and employee distribution across departments and countries.
 ## Tableau - Key Tasks Completed
